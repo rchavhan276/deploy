@@ -5,6 +5,6 @@ metadata:
 spec:
   containers:
   - name: cafesite
-    image: rahul848/myrepo:0.0.1-9
+    image: rahul848/myrepo:0.0.1-12
     ports:
     - containerPort: 80
